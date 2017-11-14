@@ -10,3 +10,9 @@
     font-size: 4rem;
 }
 
+.img-hailey {
+    transform: rotate(90deg);
+    object-fit: cover;
+    border-radius: 100%;
+}
+
